@@ -1,6 +1,6 @@
 module github.com/olenindenis/go_struct_size_optimizer
 
-go 1.21
+go 1.25.1
 
 require (
 	github.com/sergi/go-diff v1.4.0
